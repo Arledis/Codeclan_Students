@@ -37,7 +37,7 @@ end
   #   end
   #  end
 
-def student_say()
+def student_say
   return 'I can talk!'
 end
 
